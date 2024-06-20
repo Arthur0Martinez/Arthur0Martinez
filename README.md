@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Arthur0Martinez well more known as Arthur
+- 👋 Hi, I’m @Arthur0Martinez a french software dev
 - 👀 I’m interested in Cinema and coding
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
+- 🌱 I’m a student at 42 Perpignan Occitanie
 - 💞️ I’m looking to collaborate on everything ! 
 - 📫 How to reach me : martinez.arthur2602@gmail.com
 
